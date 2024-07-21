@@ -1,8 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yashwanth Nomula</h1>
-<h3 align="center">A passionate Data Analyst</h3>
-
-- 📫 How to reach me **yashwanth.nomula18@gmail.com**
+Hey, I'm Yashwanth !<br><br> 🎓 Business Analytics Graduate from UMASS Amherst, USA <br><br> 💼 Worked as Data Analyst @ Cognizant <br><br>🚀 Data Analyst | Business Intelligence | Machine Learning enthusiast<br><br>📈 Striving to Develop Expertise in Data Science!<br><br>🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow Data Analyts.<br><br>🔎 Presently seeking Full time jobs, if you know any exciting opportunities, hit me up 📤.<br><br>⚡ I have a Never Settle Mindset, so I'm always curious to explore new possibilities, learn new tech and act on them !<br><br>💻 Tech fanatic / Musicophile 🎧<br><br>To reach me : Mail - yashwanth.nomula18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
