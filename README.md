@@ -3,7 +3,7 @@ Hey, I'm Yashwanth !<br><br> 🎓 Business Analytics Graduate from UMASS Amherst
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yashwanth nomula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth nomula" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashwanth nomula" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth nomula" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yashwanth_nomul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashwanth_nomul1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashwanth_nomula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashwanth_nomula" height="30" width="40" /></a>
 </p>
